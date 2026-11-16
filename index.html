@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GT4 Cam for Raspberry Pi</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; background: #0d151e; color: #e4eef8; }
+    main { max-width: 47rem; margin: 4rem auto; padding: 0 1.25rem; }
+    h1 { font-size: clamp(2.5rem, 8vw, 4rem); margin: 0; letter-spacing: -.04em; }
+    h1 span, a { color: #79d7ff; }
+    p { line-height: 1.65; }
+    pre { padding: 1rem; overflow: auto; border: 1px solid #375168; background: #142330; border-radius: .4rem; }
+    .fingerprint { overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+<main>
+  <h1><span>GT4</span> Cam</h1>
+  <p>Install the Linux camera viewer and Xbox driving controls on a Raspberry Pi 5 running Twister OS 3.x.</p>
+  <h2>Add the repository</h2>
+  <p>Download the public key and verify its fingerprint.</p>
+  <pre><code>curl -fsSLO https://sirnugget11.github.io/gt4cam-apt/gt4cam-archive-keyring.gpg
+gpg --show-keys --fingerprint gt4cam-archive-keyring.gpg</code></pre>
+  <p class="fingerprint"><code>757C21D570FB4C2EF067CB83C4AAB9D67C3E2367</code></p>
+  <p>After the fingerprint matches, add the repository and install GT4 Cam.</p>
+  <pre><code>sudo install -D -m 644 gt4cam-archive-keyring.gpg /etc/apt/keyrings/gt4cam.gpg
+echo 'deb [signed-by=/etc/apt/keyrings/gt4cam.gpg] https://sirnugget11.github.io/gt4cam-apt ./' |
+  sudo tee /etc/apt/sources.list.d/gt4cam.list &gt;/dev/null
+sudo apt update
+sudo apt install gt4cam</code></pre>
+  <p>Open <strong>GT4 Cam</strong> from the desktop menu. Updates are available through APT.</p>
+</main>
+</body>
+</html>
