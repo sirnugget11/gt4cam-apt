@@ -1,5 +1,24 @@
 Package: gt4cam
 Architecture: all
+Version: 1.11.0-1
+Priority: optional
+Section: video
+Maintainer: GT4 Cam
+Installed-Size: 452
+Depends: python3 (>= 3.11), python3-pyqt6 (>= 6.4), python3-pyqt6.qtsvg, python3-pyqt6.qtwebchannel, python3-pyqt6.qtwebengine, python3-pyqt6.qtwebsockets, python3-pygame (>= 2.1.2), nodejs (>= 18)
+Recommends: qt6-wayland
+Filename: pool/gt4cam_1.11.0-1_all.deb
+Size: 64716
+MD5sum: 8d451ac68094511c3f804d3f10a1e5f6
+SHA1: b278ae276de453360212656593086045742038be
+SHA256: 28174faf85cf15c9929e6db381d0c60e83f56d0e893d34311b5b4bf5f1b5a2c4
+SHA512: 837a185be4e45b1e75a58b3e4d26922dd8e05f23e9a8d0f2db9ade599a1a5a8c38307c207c8556adac236c748cdf7065678f345def6c148c4e61f47d1d0f6902
+Description: GT4 Cam desktop viewer and LEGO car controls
+ View the mounted phone's live camera feed and drive the car with a local
+ Xbox controller. The viewer starts its own local camera receiver.
+
+Package: gt4cam
+Architecture: all
 Version: 1.7.0-1
 Priority: optional
 Section: video
