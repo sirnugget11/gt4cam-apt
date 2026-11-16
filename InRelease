@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Date: Mon, 16 Nov 2026 08:28:04 +0000
+Date: Mon, 16 Nov 2026 15:30:33 +0000
 Label: GT4 Cam
 Origin: GT4 Cam
 MD5Sum:
- f79158c4bb562b2670ea9c14367f1649             1806 Packages
- 2cbcf39474125c7fc96a04a246a8648f              791 Packages.gz
+ 532dff729c40ecddc49a45b58ac3e6dd             2701 Packages
+ 50b74520bcfaacc8a01a25cbf4d91631              978 Packages.gz
 SHA1:
- 53802fe5dec5d6486ed2cc07b3f8c85b672f5b5d             1806 Packages
- 498d99c437eb8cc7c5ce543bb67146b89a26021f              791 Packages.gz
+ 8d705148a50f9d6eee6473125595ce3212b684fb             2701 Packages
+ 2466534d0d732ba6d02734f78ca6501ff8a8e4c7              978 Packages.gz
 SHA256:
- de7eae5642f947db8265eb46712fd4ca9bf9b4cbfb390ff04a097b9cb5698a47             1806 Packages
- cf2e9f83e578eb8ec107b5ddf59041d4b0ef260cb8a0f365c58d79cb46f25e8d              791 Packages.gz
+ efae3cb7605235da841a1d8c4ea922d50f5790df247233c0008e0cbc8862248f             2701 Packages
+ 530badc750d2403356bb5aa1c943592c5f5b8e0191632c5e94c7ada49c49f907              978 Packages.gz
 SHA512:
- 6a94bbe0dade791618d30551e0825f21c66316faad7eb946f5177e03e095f0296464dd37a21bf008e546434c5bee3d3165d183b75532a88353779d6de31dc93d             1806 Packages
- 7950633745e0418a71dcc5a4e1931582995f206985bab925d2b7fadd27dddcc57243b0ac2875effb26fcbfa72fc3152785afbb1c673ab985f9892c90a2356d38              791 Packages.gz
+ bb677dfcf442cee9fb61514c4830d69771d16b8042fa96d84924fce1cbf81c7b3a3cb4b303cf7aa6c483b0898d4e5681d8a2b5b13229c97f43cb913cf1f6d376             2701 Packages
+ 87bc8fe997376dd90eabfdee8123a817762befadb9e3d283ba123a4ac984849abd6e96a3bc2a895dd08d3abab2a5dbd7101ef3ff91a976dd8dc2c6e33f19d0dd              978 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQR1fCHVcPtMLvBny4PEqrnWfD4jZwUCavq+lAAKCRDEqrnWfD4j
-ZwAmAQCeX7xU7NMZlPSNHc/yi9mlHDT3177wiF+c3ySeQ+JVuwD/SpOYcwCeOD1b
-KioGhsEoeLgtGxM2JcCePVp3lyfqUAw=
-=5Zdq
+iHUEARYIAB0WIQR1fCHVcPtMLvBny4PEqrnWfD4jZwUCavshmQAKCRDEqrnWfD4j
+Z31xAP0QHvkFeaK1cQUlOIOipJV47RZcrRFSBz7Dkq01IjpUfwD/cQVmATcwUAf7
+RQ0biMPQMLW9A/EKogVX/cUB1aJ7fgY=
+=P2Vu
 -----END PGP SIGNATURE-----
