@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Date: Tue, 17 Nov 2026 10:29:32 +0000
+Date: Tue, 17 Nov 2026 11:09:07 +0000
 Label: GT4 Cam
 Origin: GT4 Cam
 MD5Sum:
- 72a8a3083bfbbade458e6aac73d3d08d             8978 Packages
- 37d61fd874eeffeda9ebee8170ab3b78             2279 Packages.gz
+ 3e30f342ffd2f7a0ea1ac464a7579531             9875 Packages
+ d58da49b75160d06a785a795cb0c3636             2462 Packages.gz
 SHA1:
- 199dcccc41eb21b5a0c7b2755cdf55178e95bcb5             8978 Packages
- 686cacdf7562eac4a8d0434e04489ff491538efd             2279 Packages.gz
+ c0288b78b73f9135ed3c1dd3e5354c818890a84b             9875 Packages
+ 621c1d0e400e745d386315cf4915e336dfda6fb2             2462 Packages.gz
 SHA256:
- bb564b057b039dc2091b82a91ed2edf18da7c6b70a74f1424b9ab617eab819bc             8978 Packages
- be16fc24357fd0bdede0a96abdd8da89a44408a16fc348ab0d1ebe674bb09af9             2279 Packages.gz
+ 239bf741742d55f5b67cf74c0ab7870cbde843f4c7c2dc1faa7d5e34f1816067             9875 Packages
+ 84d826a44284bcaf89c3f6a8c39734c7560b5d07c34bea826a5e29b83aa2cfba             2462 Packages.gz
 SHA512:
- f13fb9a36d01ddd8549c9277ea617326e812bd3474fd6a71906fab223b0faebab860ffd96bac06dc2c0530fe435ffcb9ae606bb4f78e45963225ab1b31c68582             8978 Packages
- f10ec4865efb97c0b636e8900e48d160f38283b272d6d5b50863ae9085c8a1b7608e3ed59d93b523019865411a91a04b35107a67e9a683ee03f96c5089d3e6c0             2279 Packages.gz
+ e3a188cd81caf3b9fe729727ca6ceb80cf57d2fa4e7775b3b46e1f0a1a6196a5b1646903973b6c58d6f1f3b43c6e31335b646b391273a1c106fd123677b0c391             9875 Packages
+ 4ce7557f3ca6609e6e2e814194e6e68b1538cc2d23d269321814e538b2b82fe026b6bf961e7b4588e924a87b5e5201d26b86b13c7fdcf4f2ff5e1783ba6c54ee             2462 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQR1fCHVcPtMLvBny4PEqrnWfD4jZwUCavwsjAAKCRDEqrnWfD4j
-Zw33AP0RE8ldCalscbR5DtXXH77HCxZ/36VO8mtaUZefE+4T9wD+M3vhIbF5h3LS
-AuKhMoV0wFlV7xSJijD2vV4yk0l7HQM=
-=XcC7
+iHUEARYIAB0WIQR1fCHVcPtMLvBny4PEqrnWfD4jZwUCavw10wAKCRDEqrnWfD4j
+Z9LyAQD7PMTjT+BjcB9dtzQMwk/UdRT8dFzQhTw8KcjH+1WYbQD+OJZEJe9ndxTX
+vxENGRBUqEV02RgJvtJAY30aNCFaBAA=
+=EQsW
 -----END PGP SIGNATURE-----
